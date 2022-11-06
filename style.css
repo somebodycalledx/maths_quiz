@@ -1,0 +1,38 @@
+#login1 {
+        background-color: blueviolet;
+        color: firebrick;
+        border-style: initial;
+        border-radius: 10px;
+        text-align: center;
+}
+
+#login2 {
+    background-color: cyan;
+    color: saddlebrown;
+    border-style: initial;
+    border-radius: 10px;
+    text-align: center;
+}
+#button1 {
+    background-color: darkslategrey;
+    border-radius: 20px;
+    color: olive;
+}
+
+#section1 {
+    color:bisque;
+    background-color: blue;
+}
+
+body {
+    color:blanchedalmond;
+    background-color: forestgreen;
+    text-align: center;
+}
+
+#output {
+    background-color: white;
+    border-radius: 10px;
+    padding: none;
+    text-align: left;
+}
